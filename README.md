@@ -1,5 +1,5 @@
 # CurrencyStateMailer
-The script sends a mail with a state of Swiss franc every 24 hours to a provided email. It`s uses PHPMailer library.
+The script sends a mail with a state of Swiss franc every 24 hours to a provided email. It uses PHPMailer library.
 
 So to make this project work, you should create an account at https://sendgrid.com
 
